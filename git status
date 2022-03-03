@@ -1,0 +1,68 @@
+[33mcommit e15dff8f0efcccef12bffc968137a88cbdfa281c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oslewil Salazar <100503591+Oslewil97@users.noreply.github.com>
+Date:   Thu Mar 3 15:47:28 2022 -0400
+
+    colocaste pull y era push
+
+[33mcommit 071f9210a24b20da78945541159a12533cbf8159[m
+Author: oslewil97 <oslewil97@gmail.com>
+Date:   Thu Mar 3 15:15:08 2022 -0400
+
+    trabajando en cmd con push
+
+[33mcommit 013bea89a623d09a664f7497a45fb40dbc105e27[m
+Author: oslewil97 <oslewil97@gmail.com>
+Date:   Thu Mar 3 14:52:55 2022 -0400
+
+    creando commit en cmd
+
+[33mcommit 9624663a62b5c45dbf7a50b41d8540bef339a646[m[33m ([m[1;32mcambiar-color-fondo[m[33m)[m
+Merge: 8ecd1f4 e3e4c53
+Author: Oslewil Salazar <Oslewil97@gmail.com>
+Date:   Tue Mar 1 23:07:45 2022 -0400
+
+    Merge branch 'main' into cambiar-color-fondo
+
+[33mcommit e3e4c531a1ed05feeba7c53e808223b895180b2a[m
+Author: Oslewil Salazar <Oslewil97@gmail.com>
+Date:   Tue Mar 1 23:07:10 2022 -0400
+
+    perzonalizando el proyecto
+
+[33mcommit 8ecd1f407154fa092b9036c750dbf46248bd74ff[m[33m ([m[1;31morigin/cambiar-color-fondo[m[33m)[m
+Author: Oslewil Salazar <Oslewil97@gmail.com>
+Date:   Tue Mar 1 22:54:43 2022 -0400
+
+    perzonalizando el proyecto
+
+[33mcommit b477633ebfafbb8c799d64cd6712f573bf1ba420[m
+Author: Oslewil Salazar <Oslewil97@gmail.com>
+Date:   Tue Mar 1 22:54:01 2022 -0400
+
+    Creacion de estilos de la pagina
+    
+    archivo para personalizar la pagina
+
+[33mcommit 1750951bbfcb3ac6dabce3935a45ef175e43890a[m
+Author: Oslewil Salazar <Oslewil97@gmail.com>
+Date:   Tue Mar 1 21:48:34 2022 -0400
+
+    Alguien olvidó colocar el charset
+    
+    Alguien olvidó colocar el meta, el cliente dice que la pagina debe estar en utf8 porque va a estar dedicada a personas de habla hispana
+
+[33mcommit 2d5fc7dd02cc427ca06095ff8d37488fb959c7c0[m
+Author: Oslewil Salazar <Oslewil97@gmail.com>
+Date:   Tue Mar 1 21:44:04 2022 -0400
+
+    Creo un prototipo para la pagina
+    
+    Este es un prototipo que contiene textos para la página de inicio.
+    
+    El cliente manifiesta que debemos ser cautelosos a la hora de escribir contenido debido a que muchos usuarios lo visualizaran -.-
+
+[33mcommit 58bfc7ee23f21e1e52c396b0bc8d94c20f6c2742[m
+Author: Oslewil97 <100503591+Oslewil97@users.noreply.github.com>
+Date:   Tue Mar 1 21:14:20 2022 -0400
+
+    Initial commit
